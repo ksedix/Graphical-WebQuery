@@ -9,9 +9,9 @@ Instructions:
 The response will be displayed as a JSON object in the text area
 
 Example commands:
-###Single-word commands
+### Single-word commands
 serverlist
 clientlist
 serverinfo
-###multi-word commands
+### Multi-word commands
 channelcreate channel_name hello_world
