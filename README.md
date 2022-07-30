@@ -8,10 +8,14 @@ Instructions:
 
 The response will be displayed as a JSON object in the text area
 
-Example commands:
+## Example commands:
 ### Single-word commands
 serverlist
+
 clientlist
+
 serverinfo
 ### Multi-word commands
 channelcreate channel_name hello_world
+
+clientpoke clid 6 msg Hey
