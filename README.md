@@ -3,11 +3,17 @@ A graphical(GUI) implementation of teamspeak web query
 
 Instructions:
 1. Enter your API key, Virtual Server ID and Teamspeak server address in the entry fields and press the submit button. You got your API-Key when you created your teamspeak server(see image)
-![alt text](login_page.png)
+
+<img style="float:left;" src="login_page.png" />
+<img style="float:left;" src="api_key.png" />
 2. Write your commands separated by a whitespace and press Send Query. Single-word commands have no parameters and require no whitespace
-![alt text](textarea.png)
+<p align="left">
+  <img src="textarea.png" />
+</p>
 3. Read the response from the server in the text area. The response is in the form of a JSON response object
-![alt text](clientlist.png)
+<p align="left">
+  <img src="clientlist.png" />
+</p>
 
 ## Example commands:
 ### Single-word commands
